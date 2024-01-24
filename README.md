@@ -90,7 +90,7 @@ func generateMultimodalContent(w io.Writer, prompt, image, projectID, location, 
 
 ## 2. We store the PROJECT_ID in an environmental variable
 
-![image](https://github.com/luiscoco/Golang-sample18-Google-Gemini/assets/32194879/26e283af-1f47-43ea-b9ba-73957b8d2272)
+![image](https://github.com/luiscoco/Golang-sample18-Google-Gemini/assets/32194879/420e518e-4019-4e9e-8d13-10322aedef2e)
 
 ## 3. Create the "go.mod" file
 
