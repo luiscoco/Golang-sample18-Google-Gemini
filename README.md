@@ -4,6 +4,8 @@ This is the official Google sample web page: https://cloud.google.com/vertex-ai/
 
 ## 1. Run VSCode and copy this code
 
+![image](https://github.com/luiscoco/Golang-sample18-Google-Gemini/assets/32194879/970a0021-1704-4379-b786-dfe736bb2d80)
+
 ```go
 // Copyright 2023 Google LLC
 //
