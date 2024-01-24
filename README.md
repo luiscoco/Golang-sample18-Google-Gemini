@@ -1,4 +1,4 @@
-# Golang: Google Cloud Gemini AI API call to describe an image
+# Golang: Google Cloud Gemini Vertex AI API call to describe an image
 
 
 
