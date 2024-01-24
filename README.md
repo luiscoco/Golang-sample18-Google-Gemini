@@ -1,6 +1,10 @@
 # Golang: Google Cloud Gemini Vertex AI API call to describe an image
 
-This is the official Google sample web page: https://cloud.google.com/vertex-ai/docs/generative-ai/start/quickstarts/quickstart-multimodal
+This sample source code: https://github.com/luiscoco/Golang-sample18-Google-Gemini/
+
+This is the official Google sample web page: 
+
+https://cloud.google.com/vertex-ai/docs/generative-ai/start/quickstarts/quickstart-multimodal
 
 ## 1. Run VSCode and copy this code
 
